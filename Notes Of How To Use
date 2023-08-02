@@ -1,0 +1,4 @@
+so For Runing The server Side open cmd then We need To First enter The Diractory Of server using Cd filename/server
+then To Run it We Use The Command "nodemon index.js"
+
+so For Runing The client Side open cmd then enter The Diractory Of client using Cd filename/client and then to run the front end "npm run start"
